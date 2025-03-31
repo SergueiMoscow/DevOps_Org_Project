@@ -1,3 +1,5 @@
+[Задание](https://github.com/netology-code/clopro-homeworks/blob/main/15.1.md)
+
 ### Подготовка
 - Для работы с terraform настроить провайдера:
 [Настройка Yandex провайдера terraform](https://yandex.cloud/ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-provider)
