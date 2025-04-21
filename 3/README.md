@@ -15,3 +15,5 @@
 Смотрим шифрование:  
 ![encryption](images/image04.png)
 
+Ключи:
+![keys](images/image05.png)
